@@ -2,7 +2,7 @@
 title: "Untitled"
 output: html_document
 date: "2024-05-12"
-Name: "Sathwika"
+Name: "Sathwikakarri"
 ---
 
 ```{r setup, include=FALSE}
